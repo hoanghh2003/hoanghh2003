@@ -25,7 +25,7 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
 - ![Traveling](https://img.shields.io/badge/-Traveling-FF9800?style=flat-square&logo=airplane&logoColor=white)
 
 ## 💬 Quote
-*"The only way to do great work is to love what you do." - Steve Jobs
+*"The only way to do great work is to love what you do."* - Steve Jobs
 
 ## 📘 Projects
 ### [Pets' Spa Management](https://github.com/namle23kjd/N5_NET1806)
