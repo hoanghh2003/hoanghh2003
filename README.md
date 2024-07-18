@@ -19,7 +19,7 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
 
 ## 📘 Projects
 ### [Pets' Spa Management](https://github.com/namle23kjd/N5_NET1806)
-![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/pets-spa-management.png)\
+![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/pets-spa-management.png)
 
 An application for managing pet spa services, helping pet owners easily schedule appointments, track the care process, and conveniently and quickly pay for services.
 
