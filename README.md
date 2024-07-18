@@ -17,6 +17,16 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+## 🌱 Currently Learning
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+## 🎨 Hobbies
+- ![Gaming](https://img.shields.io/badge/-Gaming-107C10?style=flat-square&logo=xbox&logoColor=white)
+- ![Traveling](https://img.shields.io/badge/-Traveling-FF9800?style=flat-square&logo=airplane&logoColor=white)
+
+## 💬 Quote
+*"The only way to do great work is to love what you do." - Steve Jobs
+
 ## 📘 Projects
 ### [Pets' Spa Management](https://github.com/namle23kjd/N5_NET1806)
 ![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/pets-spa-management.png)
