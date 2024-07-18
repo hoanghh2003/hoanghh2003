@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/header.png)
-
 # Hi there 👋, I'm Hoang
 
 ## About Me
@@ -35,5 +33,3 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
 
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hoanghh2003/count.svg)
-
-![Footer](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/footer.png)
