@@ -37,4 +37,3 @@ A book management application designed to help users easily manage their book co
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hoanghh2003/count.svg)
 
-![Footer](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/footer.png)
