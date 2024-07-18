@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/header.png)
+
 # Hi there 👋, I'm Hoang
 
 ## About Me
@@ -16,12 +18,13 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ## 📘 Projects
-- **[Pets' Spa Management](https://github.com/namle23kjd/N5_NET1806)**: 
-  An application for managing pet spa services, helping pet owners easily schedule appointments, track the care process, and conveniently and quickly pay for services.
-  ![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/pets-spa-management.png)
-- **[ManageBook](https://github.com/hoanghh2003/AssPRN212)**: 
-  A book management application designed to help users easily manage their book collections. The application allows users to add, edit, delete, and search for book information efficiently.
-  ![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/managebook.png)
+### [Pets' Spa Management](https://github.com/namle23kjd/N5_NET1806)
+An application for managing pet spa services, helping pet owners easily schedule appointments, track the care process, and conveniently and quickly pay for services.
+![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/pets-spa-management.png)
+
+### [ManageBook](https://github.com/hoanghh2003/AssPRN212)
+A book management application designed to help users easily manage their book collections. The application allows users to add, edit, delete, and search for book information efficiently.
+![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/managebook.png)
 
 ## 📫 Connect with Me
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/2010.HaHuyHoanglacuaai.2003)
@@ -33,3 +36,5 @@ I'm a passionate developer with a love for creating impactful projects. Currentl
 
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hoanghh2003/count.svg)
+
+![Footer](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/footer.png)
