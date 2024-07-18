@@ -25,7 +25,6 @@ An application for managing pet spa services, helping pet owners easily schedule
 
 ### [ManageBook](https://github.com/hoanghh2003/AssPRN212)
 A book management application designed to help users easily manage their book collections. The application allows users to add, edit, delete, and search for book information efficiently.
-![Project Screenshot](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/managebook.png)
 
 ## 📫 Connect with Me
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/2010.HaHuyHoanglacuaai.2003)
